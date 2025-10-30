@@ -1,0 +1,5 @@
+title: My Project Site
+description: Documentation and showcase for my software project
+baseurl: ""                # keep empty unless you host under a sub‑folder
+url: "https://<username>.github.io"
+theme: minima               # GitHub ships with the “minima” theme
