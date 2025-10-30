@@ -1,5 +1,8 @@
-title: My Project Site
-description: Documentation and showcase for my software project
-baseurl: ""                # keep empty unless you host under a sub‑folder
-url: "https://anacazu.github.io/github.io-condaqtor/"
-theme: minima               # GitHub ships with the “minima” theme
+title: conDAQtor: Open Science Research Software          # Whatever you want displayed in the header
+description: Links to PDFs & external site
+url: "https://anacazu.github.io"   # Base domain – no trailing slash
+baseurl: "/github.io-condaqtor"    # Sub‑folder where the site lives
+theme: minima
+
+include:
+  - _includes/custom_header.html
