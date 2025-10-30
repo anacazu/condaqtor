@@ -1,8 +1,20 @@
-title: conDAQtor: Open Science Research Software          # Whatever you want displayed in the header
+# -------------------------------------------------
+# _config.yml – GitHub Pages configuration
+# -------------------------------------------------
+title: Condaqtor Resources
 description: Links to PDFs & external site
-url: "https://anacazu.github.io"   # Base domain – no trailing slash
-baseurl: "/github.io-condaqtor"    # Sub‑folder where the site lives
+
+# Domain where the site is served (no trailing slash)
+url: "https://anacazu.github.io"
+
+# Sub‑folder because the repo name is not the root user‑page
+baseurl: "/github.io-condaqtor"
+
+# Theme – you can keep Minima or change it later
 theme: minima
 
-include:
-  - _includes/custom_header.html
+# ------------------------------------------------------------------
+# OPTIONAL SETTINGS (feel free to keep or remove)
+# ------------------------------------------------------------------
+future: false          # don’t publish dated‑future posts
+show_drafts: false    # ignore draft files
