@@ -1,11 +1,12 @@
 ---
 layout: home
-title: Welcome
+title: Welcome to the conDAQtor project
 ---
 
-# Welcome to the conDAQtor project
-
-![Condaqtor logo](/assets/duck_logo_yellow_no_background.png){: .center-image }
+<img src="/assets/duck_logo_yellow_no_background.png"
+     alt="Condaqtor logo"
+     height="120"
+     style="width:auto;">
 
 The goal behind the conDAQtor project is to provide support for researchers at public
 universities and institutes. 
