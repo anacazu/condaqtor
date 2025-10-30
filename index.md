@@ -5,7 +5,7 @@ title: Welcome
 
 # Welcome to the conDAQtor project
 
-![Condaqtor logo](/assets/duck_logo_yellow_no_background.png.png){: .center-image }
+![Condaqtor logo](/assets/duck_logo_yellow_no_background.png){: .center-image }
 
 The goal behind the conDAQtor project is to provide support for researchers at public
 universities and institutes. 
