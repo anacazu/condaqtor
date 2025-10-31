@@ -8,7 +8,7 @@ description: Links to PDFs & external site
 url: "https://anacazu.github.io"
 
 # Sub‑folder because the repo name is not the root user‑page
-baseurl: "/github.io-condaqtor"
+baseurl: "/condaqtor"
 
 # Theme – you can keep Minima or change it later
 theme: minima
