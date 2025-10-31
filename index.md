@@ -4,7 +4,7 @@ title: Welcome to the conDAQtor project
 ---
 
 <p align="center">
-  <img src="/assets/duck_logo_yellow_no_background.png" alt="Logo" style="height:100px; width:auto;">
+  <img src="assets/duck_logo_yellow_no_background.png" alt="Logo" style="height:100px; width:auto;">
 </p>
 
 The goal behind the conDAQtor project is to provide support for researchers at public
