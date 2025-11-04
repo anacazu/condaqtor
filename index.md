@@ -19,6 +19,7 @@ Here you can find some information and a survey aimed at researchers.
 
 ## 🌐 Survey
 - **[Survey for researchers](https://forms.gle/NLs4aToFRWEDVoCq7){: .external-link }** – Please feel free to fill it in, we'd really appreciate it!
+- **[Privacy notice](files/survey_privacy_notice.pdf){: .pdf-link }** - Here you can find the survey privacy notice.
 
 ## Contact
 

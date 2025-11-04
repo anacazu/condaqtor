@@ -1,8 +1,8 @@
 # -------------------------------------------------
 # _config.yml – GitHub Pages configuration
 # -------------------------------------------------
-title: Condaqtor Resources
-description: Links to PDFs & external site
+title: Condaqtor
+description: Towards an easier and better Data Acquisition software for researchers
 
 # Domain where the site is served (no trailing slash)
 url: "https://anacazu.github.io"
