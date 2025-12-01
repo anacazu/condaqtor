@@ -26,12 +26,14 @@ Faster, more advanced experiments. Improved software reusability, and a strong n
 
 Provide feedback on the feasibility of the project, and support for the next steps towards realizing the project through a funded position.
 
+---
+
 You can also find here some information and a survey aimed at researchers.
 
 ## 📄 Information
 
-- **[conDAQtor_extra](files/conDAQtor_extra.pdf){: .pdf-link }** – More info on what's data acquisition software and the conDAQtor project
-- 
+- **[conDAQtor_extra](files/conDAQtor.pdf){: .pdf-link }** – More info on what's data acquisition software and the conDAQtor project
+  
 ## 🌐 Survey
 - **[Survey for researchers](https://forms.gle/NLs4aToFRWEDVoCq7){: .external-link }** – Please feel free to fill it in, we'd really appreciate it!
 - **[Privacy notice](files/survey_privacy_notice.pdf){: .pdf-link }** - Here you can find the survey privacy notice.
