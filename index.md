@@ -1,6 +1,6 @@
 ---
 layout: home
-title: conDAQtor Directing the lab orchestra
+title: Directing the lab orchestra with conDAQtor
 ---
 
 <p align="center">
