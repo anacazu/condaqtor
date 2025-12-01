@@ -9,7 +9,7 @@ title: Directing the lab orchestra with conDAQtor
 
 **The problem**
 
-The home-written software that labs need to acquire data determines the possibilities of the experiment. Therefore, it is key for researchers. However, 
+The home-written Data Acquisition (DAQ) software that labs need to acquire data determines the possibilities of the experiment. Therefore, it is key for researchers. However, 
 knowledge about such software is often not shared between research groups or even between PhD generations, resulting in a lack of continuity and time-consuming duplicated efforts.
 
 **My goal**
