@@ -30,7 +30,7 @@ You can also find here some information and a survey aimed at researchers.
 
 ## 📄 Information
 
-- **[conDAQtor_extra](files/conDAQtor.pdf){: .pdf-link }** – More info on what's data acquisition software and the conDAQtor project
+- **[conDAQtor info (PDF)](files/conDAQtor_extra.pdf){: .pdf-link }** – More info on what's data acquisition software and the conDAQtor project
   
 ## 🌐 Survey
 - **[Survey for researchers](https://forms.gle/NLs4aToFRWEDVoCq7){: .external-link }** – Please feel free to fill it in, we'd really appreciate it!
