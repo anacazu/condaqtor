@@ -7,10 +7,22 @@ title: Welcome to the conDAQtor project
   <img src="assets/duck_logo_yellow_no_background.png" alt="Logo" style="height:100px; width:auto;">
 </p>
 
-The goal behind the conDAQtor project is to provide support for researchers at public
-universities and institutes. 
+# conDAQtor: Directing the lab orchestra
 
-Here you can find some information and a survey aimed at researchers.
+**The problem**
+The home-written software that labs need to acquire data determines the possibilities of the experiment. 
+Knowledge about such software is not shared between PhD generations or research groups, resulting in a lack of continuity and time-consuming duplicated efforts.
+
+**My goal**
+Make research more efficient by offering support and training to researchers, while building a national network for knowledge transfer according to FAIR principles.
+
+**Expected results**
+Faster, more advanced experiments. Improved software reusability, and a strong network of labs that accumulate and share expertise.
+
+**How you can help the project**
+Provide feedback on the feasibility of the project, and support for the next steps towards realizing the project through a funded position.
+
+You can also find here some information and a survey aimed at researchers.
 
 ## 📄 Information
 
