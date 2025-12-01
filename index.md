@@ -1,13 +1,11 @@
 ---
 layout: home
-title: Welcome to the conDAQtor project
+title: Welcome to the project | conDAQtor: Directing the lab orchestra
 ---
 
 <p align="center">
   <img src="assets/duck_logo_yellow_no_background.png" alt="Logo" style="height:100px; width:auto;">
 </p>
-
-# conDAQtor: Directing the lab orchestra
 
 **The problem**
 
