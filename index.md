@@ -33,8 +33,10 @@ You can also find here some information and a survey aimed at researchers.
 - **[conDAQtor info (PDF)](files/conDAQtor_extra.pdf){: .pdf-link }** – More info on what's data acquisition software and the conDAQtor project
   
 ## 🌐 Survey
-- **[Survey for researchers](https://forms.gle/NLs4aToFRWEDVoCq7){: .external-link }** – Please feel free to fill it in, we'd really appreciate it!
-- **[Privacy notice](files/survey_privacy_notice.pdf){: .pdf-link }** - Here you can find the survey privacy notice.
+Feedback is key for us to know how our project can help better. We'd really appreciate it if you filled in our surveys and shared them with your colleagues. 
+- **[Survey for researchers](https://forms.gle/NLs4aToFRWEDVoCq7){: .external-link }** – This survey is to learn more about the experiences of  anyone who works in a research lab (PhDs, postdocs, scientific staff, technicians, etc)
+- **[Survey for group leaders](https://forms.gle/cmeferdwwBxgoQtt5){: .external-link }** – This survey is specifically for group leaders, in their role of decission makers. They're however very welcome to also fill in the general survey above in their role of researchers.
+- **[Privacy notice](files/survey_privacy_notice.pdf){: .pdf-link }** - Here you can find the surveys privacy notice.
 
 ## Contact
 
