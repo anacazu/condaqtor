@@ -2,7 +2,7 @@
 # _config.yml – GitHub Pages configuration
 # -------------------------------------------------
 title: conDAQtor
-description: Towards an easier and better Data Acquisition (DAQ) software for researchers
+description: Towards easier to write and better quality Data Acquisition (DAQ) software for researchers
 
 # Domain where the site is served (no trailing slash)
 url: "https://anacazu.github.io"
