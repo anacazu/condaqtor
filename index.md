@@ -36,6 +36,12 @@ Feedback is key for us to know how our project can help better. We'd really appr
 - **[Survey for group leaders](https://forms.gle/cmeferdwwBxgoQtt5){: .external-link }** – This survey is specifically for group leaders, in their role of decission makers. They're however very welcome to also fill in the general survey above in their role of researchers.
 - **[Privacy notice](files/survey_privacy_notice.pdf){: .pdf-link }** - Here you can find the surveys privacy notice.
 
+## Updates
+- **January 2025**. I'll participate in the national NWO Physics 2026 conference at Veldhoven. There, I'll promote the conDAQtor project by networking with other researchers. https://nwophysics.nl/
+- **February 2025**. I'll be leading one of the working groups in a workshop organised by the TDCC NES. Together with people with different roles (technical support, PhD students, professors, etc.), we'll dicuss the situation of instrumentation and Data Acquisition software and how to improve it. https://tdcc.nl/evenementen/fair4instruments-workshop/
+- **Ongoing**. The survey has been filled in by more than 20 researchers from different universities, I hope more participants will continue to contribute! I'll soon publish here the temporary results of the survey, which show a landscape where improvements are clearly needed and asked for by researchers.
+- **Ongoing**. As my PhD comes to an end, I'll transfer the role of managing the department data acquisition software to a colleague of mine. I'll use his onboarding process as input for the basic "LabVIEW for researchers" learning materials I plan to add to this site. 
+
 ## Contact
 
 ana.caballo@proton.me
